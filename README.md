@@ -1,2 +1,2 @@
 # Array
-These repository consists code of array module which I created from scratch using oops concepts in python.
+These repository consists code which i had written to build python array module from scratch using the oops concept.
